@@ -9,7 +9,7 @@ A robust C++ management system designed to track, organize, and manage laborator
 
 # Data Structures & Algorithms
 This project was developed to demonstrate the efficient use of memory and data organization:
-- Structs/Classes: Custom data types to represent complex equipment entities.
+- Structs / Classes: Custom data types to represent complex equipment entities.
 - Linked Lists / Dynamic Arrays: (Select which one you used) Utilized for dynamic memory management, allowing the system to scale as more equipment is added.
 - Sorting & Searching: Implementation of algorithms to organize data by ID or Name for faster access.
 
