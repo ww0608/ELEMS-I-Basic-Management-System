@@ -1,4 +1,4 @@
-# Engineering Lab Equipment Management System (ELEMS)
+# Engineering Lab Equipment Management System (ELEMS) I
 A robust C++ management system designed to track, organize, and manage laboratory equipment. This project focuses on the practical application of Data Structures to ensure efficient data handling and retrieval.
 
 # Key Features
